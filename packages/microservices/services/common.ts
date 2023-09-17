@@ -1,0 +1,1 @@
+export const RABBIT_MQ_URl = 'amqp://localhost:5672'
